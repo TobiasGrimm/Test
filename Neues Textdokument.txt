@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Das ist ein Test.
+und ich mach noch einen
+aber es geht noch weiter
+=======
+Das ist ein Test.
+>>>>>>> parent of 63a879a... Test1
